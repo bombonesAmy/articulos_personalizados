@@ -1,0 +1,246 @@
+[
+    {
+        "nombre": "Botella metálica",
+        "imagen": "images/botella-metalica.png",
+        "precio": "2000 Cup"
+    },
+    {
+        "nombre": "Cartucheras",
+        "imagen": "images/cartuchera.png",
+        "precio": "1000 Cup"
+    },
+    {
+        "nombre": "Cojines",
+        "imagen": "images/cogines.png",
+        "precio": "1800 Cup"
+    },
+    {
+        "nombre": "Enguatadas",
+        "imagen": "images/enguatada.png",
+        "precio": "2300 Cup",
+        "talla": "S, M, L, XL"
+    },
+    {
+        "nombre": "Imanes",
+        "imagen": "images/imanes.png",
+        "precio": "600 Cup"
+    },
+    {
+        "nombre": "Jabas de tela",
+        "imagen": "images/jaba-tela.png",
+        "precio": "1000 Cup"
+    },
+    {
+        "nombre": "Jarra cervezera",
+        "imagen": "images/jarra-cervezera.png",
+        "precio": "2600 Cup"
+    },
+    {
+        "nombre": "Jarra clásica",
+        "imagen": "images/jarra-clasica.png",
+        "precio": "1500 Cup"
+    },
+    {
+        "nombre": "Jarra térmica blanca",
+        "imagen": "images/jarra-termica-blanca.png",
+        "precio": "2650 Cup"
+    },
+    {
+        "nombre": "Jarra térmica gris",
+        "imagen": "images/jarra-termica-gris.png",
+        "precio": "2600 Cup"
+    },
+    {
+        "nombre": "Jarras mágicas",
+        "imagen": "images/jarra-magica.png",
+        "precio": "1650 Cup"
+    },
+    {
+        "nombre": "Jarritos metálicos",
+        "imagen": "images/jattiros-metalicos.png",
+        "precio": "1800 Cup"
+    },
+    {
+        "nombre": "Juego de pullovers",
+        "imagen": "images/juego-pullovers.png",
+        "precio": "10 Usd",
+        "talla": "S, M, L, XL"
+    },
+    {
+        "nombre": "Llaveros",
+        "imagen": "images/llaveros.png",
+        "precio": "500 Cup"
+    },
+    {
+        "nombre": "Losas personalizadas",
+        "imagen": "images/losa-15x16.png",
+        "precio": "1500 Cup",
+        "tamano": "15x15 cm"
+    },
+    {
+        "nombre": "Losas personalizadas",
+        "imagen": "images/losa-grande.png",
+        "precio": "1700 Cup",
+        "tamano": "20x20 cm"
+    },
+    {
+        "nombre": "Monitos de bebe",
+        "imagen": "images/monito-bebe.png",
+        "precio": "1400 Cup",
+        "talla": "3, 6 y 12 meses"
+    },
+    {
+        "nombre": "Pullover amarillo",
+        "imagen": "images/pullover-amarillo.png",
+        "precio": "2000 Cup",
+        "talla": "S, M, L, XL"
+    },
+    {
+        "nombre": "Pullover azúl",
+        "imagen": "images/pullover-azul.png",
+        "precio": "2000 Cup",
+        "talla": "S, M, L, XL"
+    },
+    {
+        "nombre": "Pullover blanco",
+        "imagen": "images/pullover-blanco.png",
+        "precio": "5 Usd",
+        "talla": "S, M, L, XL"
+    },
+    {
+        "nombre": "Pullover gris",
+        "imagen": "images/pullover-gris.png",
+        "precio": "1800 Cup",
+        "talla": "S, M, L, XL"
+    },
+    {
+        "nombre": "Pullover negro",
+        "imagen": "images/pullover-negro.png",
+        "precio": "2300 Cup",
+        "talla": "S, M, L, XL"
+    },
+    {
+        "nombre": "Pullover de niño",
+        "imagen": "images/pullover-ni.png",
+        "precio": "1600 Cup",
+        "talla": "2, 4, 6, 8, 10"
+    },
+    {
+        "nombre": "Pullover rojo",
+        "imagen": "images/pullover-rojo.png",
+        "precio": "2000 Cup",
+        "talla": "S, M, L, XL"
+    },
+    {
+        "nombre": "Delantar blanco",
+        "imagen": "images/delantar-blanco.png",
+        "precio": "1600 Cup"
+    },
+    {
+        "nombre": "Delantar negro",
+        "imagen": "images/delantar-negro.png",
+        "precio": "2000 Cup"
+    },
+    {
+        "nombre": "Rompecabezas",
+        "imagen": "images/rompecabezas.png",
+        "precio": "1600 Cup"
+    },
+    {
+        "nombre": "Mouse-pad personalizados",
+        "imagen": "images/mouse-pad.png",
+        "precio": "1000 Cup"
+    },
+    {
+        "nombre": "Llaveros de acrílico",
+        "imagen": "images/llavero-acrilico.png",
+        "precio": "1000 Cup"
+    },
+    {
+        "nombre": "Cuadros personalizados",
+        "imagen": "images/cuadro-chiquito.png",
+        "precio": "3600 Cup",
+        "tamano": "12x18 cm"
+    },
+    {
+        "nombre": "Cuadros personalizados",
+        "imagen": "images/cuadro-grande.png",
+        "precio": "2000 Cup",
+        "tamano": "8x10 cm"
+    },
+    {
+        "nombre": "Pop sochet",
+        "imagen": "images/soporte.png",
+        "precio": "1000 Cup"
+    },
+    {
+        "nombre": "Mochila de niño",
+        "imagen": "images/mochila-niño.png",
+        "precio": "1500 Cup"
+    },
+    {
+        "nombre": "Gorras de malla",
+        "imagen": "images/gorras-mallas.png",
+        "precio": "1800 Cup"
+    },
+    {
+        "nombre": "Conjunto para niños",
+        "imagen": "images/conjunto-niños.png",
+        "precio": "2500 Cup"
+    },
+    {
+        "nombre": "Medias",
+        "imagen": "images/medias.png",
+        "precio": "2000 Cup"
+    },
+    {
+        "nombre": "Portalatas",
+        "imagen": "images/portalatas.png",
+        "precio": "1500 Cup"
+    },
+    {
+        "nombre": "Pantunflas",
+        "imagen": "images/pantunflas.png",
+        "precio": "1500 Cup"
+    },
+    {
+        "nombre": "Relojes",
+        "imagen": "images/relojes.png",
+        "precio": "3500 Cup"
+    },
+    {
+        "nombre": "Chapa militar",
+        "imagen": "images/chapa-militar.png",
+        "precio": "1500 Cup"
+    },
+    {
+        "nombre": "Calzoncillos",
+        "imagen": "images/calzoncillos.png",
+        "precio": "2200 Cup"
+    },
+    {
+        "nombre": "Posa vasos de neopreno",
+        "imagen": "images/posa-vasos-neopreno.png",
+        "precio": "500 Cup"
+    },
+    {
+        "nombre": "Posa vasos de corcho",
+        "imagen": "images/posa-vasos-corcho.png",
+        "precio": "500 Cup"
+    },
+    {
+        "nombre": "Jarra plateada",
+        "imagen": "images/pl.png",
+        "precio": "1600 Cup"
+    },
+    {
+        "nombre": "Espejos",
+        "imagen": "images/espejos.png",
+        "precio": "1000 Cup"
+    },
+    {
+        "nombre": "Termos de café",
+        "imagen": "images/termos-cafe.png",
+        "precio": "4000 Cup"
+    }
+]
