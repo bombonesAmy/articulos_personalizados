@@ -180,3 +180,25 @@ header {
         display: none;
     }
 }
+/* Estilos para productos no disponibles */
+.item.not-available {
+    position: relative;
+    opacity: 0.8;
+}
+
+.img-not-available {
+    filter: grayscale(80%);
+    opacity: 0.7;
+}
+
+.stock-message {
+    color: #ff0000;
+    font-weight: bold;
+    margin: -10px 0 10px 0;
+    font-size: 14px;
+}
+
+button.contacto:disabled {
+    background-color: #cccccc !important;
+    cursor: not-allowed;
+}

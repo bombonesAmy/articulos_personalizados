@@ -204,19 +204,19 @@
         "precio": "1500 Cup"
     },
     {
-        "nombre": "Relojes",
+        "nombre": "Relojes (NO DISPONIBLE)",
         "imagen": "images/relojes.png",
         "precio": "3500 Cup"
     },
     {
-        "nombre": "Chapa militar",
+        "nombre": "Chapa militar (no disponible por el momento)",
         "imagen": "images/chapa-militar.png",
         "precio": "1500 Cup"
     },
     {
         "nombre": "Calzoncillos",
         "imagen": "images/calzoncillos.png",
-        "precio": "2200 Cup"
+        "precio": "2500 Cup"
     },
     {
         "nombre": "Posa vasos de neopreno",
