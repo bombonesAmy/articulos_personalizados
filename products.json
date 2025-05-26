@@ -31,7 +31,7 @@
         "precio": "1000 Cup"
     },
     {
-        "nombre": "Jarra cervezera",
+        "nombre": "Jarra cervezera (NO DISPONIBLE)" ,
         "imagen": "images/jarra-cervezera.png",
         "precio": "2600 Cup"
     },
@@ -69,7 +69,7 @@
     {
         "nombre": "Llaveros",
         "imagen": "images/llaveros.png",
-        "precio": "500 Cup"
+        "precio": "600 Cup"
     },
     {
         "nombre": "Losas personalizadas",
@@ -87,7 +87,7 @@
         "nombre": "Monitos de bebe",
         "imagen": "images/monito-bebe.png",
         "precio": "1400 Cup",
-        "talla": "3, 6 y 12 meses"
+        "talla": "3, 6 y 12 meses (Rosado y Azul)"
     },
     {
         "nombre": "Pullover amarillo",
@@ -122,7 +122,7 @@
     {
         "nombre": "Pullover de niño",
         "imagen": "images/pullover-ni.png",
-        "precio": "1600 Cup",
+        "precio": "5 usd",
         "talla": "2, 4, 6, 8, 10"
     },
     {
@@ -144,7 +144,7 @@
     {
         "nombre": "Rompecabezas",
         "imagen": "images/rompecabezas.png",
-        "precio": "1600 Cup"
+        "precio": "2500 Cup"
     },
     {
         "nombre": "Mouse-pad personalizados",
@@ -157,18 +157,6 @@
         "precio": "1000 Cup"
     },
     {
-        "nombre": "Cuadros personalizados",
-        "imagen": "images/cuadro-chiquito.png",
-        "precio": "3600 Cup",
-        "tamano": "12x18 cm"
-    },
-    {
-        "nombre": "Cuadros personalizados",
-        "imagen": "images/cuadro-grande.png",
-        "precio": "2000 Cup",
-        "tamano": "8x10 cm"
-    },
-    {
         "nombre": "Pop sochet",
         "imagen": "images/soporte.png",
         "precio": "1000 Cup"
@@ -176,12 +164,12 @@
     {
         "nombre": "Mochila de niño",
         "imagen": "images/mochila-niño.png",
-        "precio": "1500 Cup"
+        "precio": "2000 Cup"
     },
     {
         "nombre": "Gorras de malla",
         "imagen": "images/gorras-mallas.png",
-        "precio": "1800 Cup"
+        "precio": "2500 Cup"
     },
     {
         "nombre": "Conjunto para niños",
@@ -199,19 +187,9 @@
         "precio": "1500 Cup"
     },
     {
-        "nombre": "Pantunflas",
-        "imagen": "images/pantunflas.png",
-        "precio": "1500 Cup"
-    },
-    {
         "nombre": "Relojes (NO DISPONIBLE)",
         "imagen": "images/relojes.png",
         "precio": "3500 Cup"
-    },
-    {
-        "nombre": "Chapa militar (no disponible por el momento)",
-        "imagen": "images/chapa-militar.png",
-        "precio": "1500 Cup"
     },
     {
         "nombre": "Calzoncillos",
@@ -221,12 +199,12 @@
     {
         "nombre": "Posa vasos de neopreno",
         "imagen": "images/posa-vasos-neopreno.png",
-        "precio": "500 Cup"
+        "precio": "700 Cup"
     },
     {
         "nombre": "Posa vasos de corcho",
         "imagen": "images/posa-vasos-corcho.png",
-        "precio": "500 Cup"
+        "precio": "700 Cup"
     },
     {
         "nombre": "Jarra plateada",
